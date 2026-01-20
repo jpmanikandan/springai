@@ -3,6 +3,7 @@ services:
     name: spring-ai-rag-app
     runtime: docker
     plan: free
+    rootDir: 02-SpringAI-RAG-App
     envVars:
       - key: OPENAI_API_KEY
         sync: false
