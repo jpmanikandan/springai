@@ -1,0 +1,117 @@
+Product: iPhone 15
+Category: Smartphone
+Brand: Apple
+Price: ₹79,900
+Description:
+The iPhone 15 features a 6.1-inch OLED display, A16 Bionic chip, dual-camera system with 48MP main camera, USB-C charging port, and iOS 17. It offers Face ID, 5G connectivity, and improved battery efficiency.
+
+Use Cases:
+High-quality photography, gaming, video recording, and daily productivity.
+
+Warranty:
+1 year manufacturer warranty.
+
+--------------------------------------------------
+
+Product: Samsung Galaxy S23
+Category: Smartphone
+Brand: Samsung
+Price: ₹74,999
+Description:
+Samsung Galaxy S23 comes with a 6.1-inch Dynamic AMOLED display, Snapdragon 8 Gen 2 processor, 50MP triple-camera setup, 5G support, and One UI based on Android. It offers fast charging and enhanced night photography.
+
+Use Cases:
+Photography, multitasking, gaming, and professional usage.
+
+Warranty:
+1 year manufacturer warranty.
+
+--------------------------------------------------
+
+Product: Dell XPS 13
+Category: Laptop
+Brand: Dell
+Price: ₹1,39,990
+Description:
+Dell XPS 13 is a premium ultrabook with a 13.4-inch InfinityEdge display, Intel Core i7 processor, 16GB RAM, 512GB SSD, and Windows 11. It is lightweight, powerful, and ideal for professionals.
+
+Use Cases:
+Software development, office work, business travel, and content creation.
+
+Warranty:
+1 year onsite warranty.
+
+--------------------------------------------------
+
+Product: Apple MacBook Air M2
+Category: Laptop
+Brand: Apple
+Price: ₹1,14,900
+Description:
+MacBook Air M2 features Apple M2 chip, 13.6-inch Retina display, 8GB RAM, 256GB SSD, macOS, fanless design, long battery life up to 18 hours, and a lightweight aluminum body.
+
+Use Cases:
+Programming, video editing, online learning, and office productivity.
+
+Warranty:
+1 year manufacturer warranty.
+
+--------------------------------------------------
+
+Product: Sony WH-1000XM5
+Category: Headphones
+Brand: Sony
+Price: ₹29,990
+Description:
+Sony WH-1000XM5 are premium noise-canceling headphones with industry-leading active noise cancellation, 30-hour battery life, touch controls, Bluetooth 5.2, and superior sound quality.
+
+Use Cases:
+Music listening, travel, remote work, and calls.
+
+Warranty:
+1 year warranty.
+
+--------------------------------------------------
+
+Product: Boat Rockerz 450
+Category: Headphones
+Brand: boAt
+Price: ₹1,499
+Description:
+Boat Rockerz 450 are wireless Bluetooth headphones offering up to 15 hours of playback, 40mm drivers, foldable design, and quick charging support.
+
+Use Cases:
+Casual music listening, workouts, travel, and calls.
+
+Warranty:
+1 year warranty.
+
+--------------------------------------------------
+
+Product: Apple Watch Series 9
+Category: Smartwatch
+Brand: Apple
+Price: ₹41,900
+Description:
+Apple Watch Series 9 features a Retina Always-On display, advanced health tracking including ECG and blood oxygen, fitness tracking, Siri integration, and seamless iPhone connectivity.
+
+Use Cases:
+Health monitoring, fitness tracking, notifications, and daily activities.
+
+Warranty:
+1 year manufacturer warranty.
+
+--------------------------------------------------
+
+Product: Samsung Galaxy Watch 6
+Category: Smartwatch
+Brand: Samsung
+Price: ₹36,999
+Description:
+Samsung Galaxy Watch 6 offers advanced health tracking, AMOLED display, sleep monitoring, heart rate tracking, and seamless integration with Android smartphones.
+
+Use Cases:
+Fitness tracking, health monitoring, notifications.
+
+Warranty:
+1 year manufacturer warranty.

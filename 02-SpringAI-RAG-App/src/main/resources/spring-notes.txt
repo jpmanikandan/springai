@@ -1,0 +1,32 @@
+FAQ Database:
+Spring Framework:
+
+Spring Basics:
+
+Question: "What is Spring Framework?"
+
+Answer: "Spring Framework is a lightweight, open-source Java framework used to build enterprise applications. It provides features like dependency injection, aspect-oriented programming, and easy integration with databases and web frameworks."
+
+Dependency Injection:
+
+Question: "What is Dependency Injection in Spring?"
+
+Answer: "Dependency Injection is a design pattern used by Spring to manage object creation and dependencies. Instead of creating objects manually, Spring injects required dependencies at runtime, making applications loosely coupled."
+
+Spring Boot:
+
+Question: "What is Spring Boot and why is it used?"
+
+Answer: "Spring Boot is an extension of the Spring Framework that simplifies application development by providing auto-configuration, embedded servers, and production-ready features. It helps developers build applications faster with minimal configuration."
+
+Spring MVC:
+
+Question: "What is Spring MVC?"
+
+Answer: "Spring MVC is a web framework based on the Model-View-Controller pattern. It separates business logic, user interface, and request handling, making web applications easier to develop and maintain."
+
+Spring Annotations:
+
+Question: "What is the use of @Autowired annotation?"
+
+Answer: "@Autowired is used to automatically inject required dependencies into Spring-managed beans. It eliminates the need for manual object creation and supports constructor, setter, and field injection."

@@ -1,0 +1,12 @@
+spring:
+  ai:
+    openai:
+      api-key: ${OPENAI_API_KEY}
+      chat:
+        options:
+          model: gpt-4o
+          max-tokens: 1000
+    vectorstore: 
+      pinecone:
+        api-key: ${PINECONE_API_KEY}
+        index-name: manidemo

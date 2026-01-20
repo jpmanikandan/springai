@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spring AI RAG Chat - API Tester</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <div class="header-content">
+                <div>
+                    <h1>🤖 Spring AI RAG System</h1>
+                    <p>Interactive API Testing Interface</p>
+                </div>
+                <div class="header-actions">
+                    <button id="clear-btn" class="secondary-btn" title="Clear conversation history">
+                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                            stroke-width="2">
+                            <path d="M3 6h18M19 6v14a2 2 0 01-2 2H7a2 2 0 01-2-2V6m3 0V4a2 2 0 012-2h4a2 2 0 012 2v2" />
+                        </svg>
+                        Clear History
+                    </button>
+                </div>
+            </div>
+        </header>
+
+        <main>
+            <div class="chat-container">
+                <div id="chat-history" class="chat-history">
+                    <div class="welcome-message">
+                        <h2>👋 Welcome to the RAG Testing Interface</h2>
+                        <p>This interface replaces Postman for testing your Spring AI RAG endpoints.</p>
+                        <div class="features">
+                            <div class="feature-item">
+                                <span class="feature-icon">💬</span>
+                                <span>Ask questions and get AI-powered responses</span>
+                            </div>
+                            <div class="feature-item">
+                                <span class="feature-icon">📜</span>
+                                <span>View complete conversation history</span>
+                            </div>
+                            <div class="feature-item">
+                                <span class="feature-icon">⚡</span>
+                                <span>Real-time API testing with visual feedback</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="input-area">
+                    <input type="text" id="question-input" placeholder="Type your question here..." autocomplete="off">
+                    <button id="ask-btn">
+                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                            stroke-width="2">
+                            <path d="M22 2L11 13M22 2l-7 20-4-9-9-4 20-7z" />
+                        </svg>
+                        Ask
+                    </button>
+                </div>
+            </div>
+        </main>
+
+        <footer>
+            <div class="api-info">
+                <span class="api-endpoint">Endpoint: <code>GET /rag?question={query}</code></span>
+                <span class="status-indicator" id="status-indicator">
+                    <span class="status-dot"></span> Ready
+                </span>
+            </div>
+        </footer>
+    </div>
+    <script src="app.js"></script>
+</body>
+
+</html>
